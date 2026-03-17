@@ -55,10 +55,10 @@ relatively small dataset.
 ## Training results
 
 ### Loss and mAP curves
-![Training results](assets/pcb_defect_detector/results.png)
+<img src="assets/pcb_defect_detector/results.png" width="400">
 
 ### Confusion matrix
-![Confusion matrix](assets/pcb_defect_detector/confusion_matrix_normalized.png)
+<img src="assets/pcb_defect_detector/confusion_matrix_normalized.png" width="400">
 
 
 ## Limitations and future work
