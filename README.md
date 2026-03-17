@@ -52,6 +52,17 @@ features (edges, textures, shapes) — only the detection head was retrained
 for PCB-specific defect classes. This allowed strong performance with a 
 relatively small dataset.
 
+## Training results
+
+### Loss and mAP curves
+![Training results](assets/pcb_defect_dectector/results.png)
+
+### Confusion matrix
+![Confusion matrix](assets/pcb_defect_dectector/confusion_matrix.png)
+
+### Precision-Recall curve
+![PR curve](assets/pcb_defect_dectector/PR_curve.png)
+
 ## Limitations and future work
 
 **mAP50-95 gap (0.989 → 0.593):** The model scores well at loose IoU 
