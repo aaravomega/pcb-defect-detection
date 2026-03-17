@@ -26,7 +26,7 @@ with YOLOv8. Trained on 7,971 annotated PCB images across 6 defect classes.
 
 ## Example predictions
 
-![PCB defect detection example](assets/prediction_example.jpg)
+![PCB defect detection example](assets/test_predictions/image3.jpg)
 
 ## Dataset
 
