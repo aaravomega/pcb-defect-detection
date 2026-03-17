@@ -60,8 +60,6 @@ relatively small dataset.
 ### Confusion matrix
 ![Confusion matrix](assets/pcb_defect_detector/confusion_matrix.png)
 
-### Precision-Recall curve
-![PR curve](assets/pcb_defect_detector/PR_curve.png)
 
 ## Limitations and future work
 
