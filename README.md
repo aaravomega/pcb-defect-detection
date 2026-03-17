@@ -59,7 +59,7 @@ thresholds but drops significantly at stricter ones, indicating bounding
 box localisation could be improved. A larger model (YOLOv8s or YOLOv8m) 
 or custom anchor tuning may help.
 
-**Distribution shift:** The dataset appears to come from a single PCB 
+**Distribution shift:** The dataset comes from a single PCB 
 manufacturer under controlled lighting conditions. Performance on PCBs 
 from different manufacturers, camera setups, or lighting environments 
 is unknown and likely degraded. This is a known challenge in industrial 
