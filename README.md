@@ -89,13 +89,19 @@ results = model.predict(source='your_pcb_image.jpg', conf=0.25)
 
 ## Repository structure
 ```
-pcb-defect-detection/
-├── train.ipynb          # Full training notebook
+pcb-fault-vision/
+├── train.ipynb
+├── README.md
 ├── weights/
-│   └── best.pt          # Trained model weights
-├── assets/
-│   └── prediction_example.jpg
-└── README.md
+│   └── best.pt
+└── assets/
+    ├── pcb_defect_detector/
+    │   ├── results.png
+    │   ├── confusion_matrix.png
+    │   ├── PR_curve.png
+    │   └── F1_curve.png
+    └── test_predictions/
+        └── prediction images
 ```
 
 ## Tech stack
