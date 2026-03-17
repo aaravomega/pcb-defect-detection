@@ -58,7 +58,7 @@ relatively small dataset.
 ![Training results](assets/pcb_defect_detector/results.png)
 
 ### Confusion matrix
-![Confusion matrix](assets/pcb_defect_detector/confusion_matrix.png)
+![Confusion matrix](assets/pcb_defect_detector/confusion_matrix_normalized.png)
 
 
 ## Limitations and future work
