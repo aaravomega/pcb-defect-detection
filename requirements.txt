@@ -1,0 +1,3 @@
+ultralytics>=8.0.0
+roboflow
+torch>=2.0.0
